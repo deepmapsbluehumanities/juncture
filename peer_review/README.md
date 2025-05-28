@@ -12,6 +12,8 @@ The GitHub repository is structured with each chapter of the prospective book in
 
 To submit an issue, click 'New issue' on the issues page. 
 
+.ve-media https://github.com/deepmapsbluehumanities/juncture/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.06.54.png
+
 ![screenshot of the GitHub page for logging a new issue](https://github.com/deepmapsbluehumanities/juncture/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.06.54.png)
 
 This page invites you to add a title which should be a short summary of your comment and a description which should be your peer review comment in full with any appropriate links or screenshots or additional material. Once you've finished and you've added any appropriate labels, click 'Submit new issue' at the bottom of the page. 
