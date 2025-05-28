@@ -14,10 +14,14 @@ banner: https://upload.wikimedia.org/wikipedia/commons/a/ac/Inactive_hydrotherma
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact the Juncture team
+- label: open peer review
+  icon: fas fa-users
+  action: load-page
+  path: /peer_review
+- label: contact the Deep Maps team
   icon: fas fa-envelope
   action: contact-us
-- label: View page source
+- label: view page source
   icon: fas fa-file-code
   action: view-markdown
 
