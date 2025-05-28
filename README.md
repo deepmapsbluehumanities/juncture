@@ -1,7 +1,7 @@
-# Welcome to Juncture
+# *Deep Maps: Blue Humanities*
 
- **Juncture** is a free-to-use, open source framework for converting simple text files into an engaging visual essay. A visual essay is an interactive and responsive web page that augments a text narrative with visual elements to provide depth and context.
+The *Deep Maps: Blue Humanities* book project is developing a digital-first monograph that explores deep mapping in content and form. The overall conceit of the project is that the book travels deep into the ocean as the argument unfolds. Points in the argument will be pinned to visualizations of stories, media objects and events associated with particular depth. 
 
-With Juncture you can create a single essay or build a full website consisting of multiple visual essays with navigation, site info pages, contact form, logo, and other simple customizations.
+This pilot is supported by the [Open Book Futures Experimental Publishing Group](https://copim.pubpub.org/experimental-publishing-group). OBF's aim with the pilot projects is to promote the publication of experimental books. To achieve this aim, OBF wants to foster sustainable communities of authors, publishers, developers, editors, reviewers, and open-source technology providers who engage in more experimental forms of book publishing. Our focus is specifically on the publishing process and on adapting academic publishers' existing workflows and processes to accommodate better the multiple forms and formats academic long-form research can take. As part of the pilot projects, the Experimental Publishing Group works closely with the authors, presses, and technology providers to foster communities of practice that can support experimental book publishing. The pilots will further demonstrate and develop the possibilities of experimental scholarly publications thus helping to increase the recognition given to work published in non-traditional ways.
 
-More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
+Instructions for open peer review [here](peer_review) and more information on this experimental peer review process at [https://copim.pubpub.org/pub/deep-maps-peer-review/](https://copim.pubpub.org/pub/deep-maps-peer-review/).
