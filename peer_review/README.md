@@ -12,7 +12,7 @@ The GitHub repository is structured with each chapter of the prospective book in
 
 To submit an issue, click 'New issue' on the issues page. 
 
-.ve-media https://github.com/deepmapsbluehumanities/juncture/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.06.54.png
+.ve-media gh:deepmapsbluehumanities/juncture/peer_review/Screenshot%202024-11-25%20at%2014.06.54.png
 
 ![screenshot of the GitHub page for logging a new issue](https://github.com/deepmapsbluehumanities/juncture/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.06.54.png)
 
