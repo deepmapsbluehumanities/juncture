@@ -2,6 +2,9 @@
 
 As part of the Open Book Futures Experimental Publishing Group's pilot project around *Deep Maps: Blue Humanities*, we are experimenting with using GitHub for peer review. This REVIEWME file contains instructions and recommendations for this peer review process. This is an experimental and evolving process so please treat these instructions as a guide rather than a rigid set of rules. 
 
+.ve-media wc:The_Bug_Peek.jpg left caption="Dynamic image"
+.ve-media wc:The_Bug_Peek.jpg right static caption="Static image"
+
 We are using GitHub issues for peer review as a replacement for the annotations or comments that would form the basis of a peer review using a traditional Microsoft Word-bound peer review. The GitHub interface allows a user to log a new issue on whatever aspect of the repository that they want in a free-text field that supports Markdown and the attaching of files like screenshot images. These instructions therefore use 'issue' throughout despite the slightly derogatory implications of that word in the context of a peer review process.
 
 ![screenshot of the GitHub issues page](https://github.com/deepmapsbluehumanities/juncture/blob/main/peer_review/Screenshot%202024-11-25%20at%2014.02.18.png)
